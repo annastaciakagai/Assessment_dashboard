@@ -2,6 +2,8 @@
 # CRM Opportunity Dashboard
 A full-stack dashboard assessment application that authenticates with a backend API to visualize opportunity data through heatmaps, bar charts, and KPI metrics.
 
+Link: https://assessment-dashboard-eight.vercel.app/
+
 ## 🚀 Features
 
   * **Authentication:** Secure login using JWT (Bearer Token).

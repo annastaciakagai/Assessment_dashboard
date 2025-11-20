@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell, LabelList } from 'recharts';
 
 const BarChartWidget = ({ data, title, showPercentage = false }) => {
   return (
@@ -24,8 +24,13 @@ const BarChartWidget = ({ data, title, showPercentage = false }) => {
             />
             <Bar dataKey={showPercentage ? "percentage" : "value"} radius={[0, 4, 4, 0]} barSize={20}>
                {data.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill="#ea580c" /> // The Orange Accent
+                  <Cell key={`cell-${index}`} fill="#ea580c" />
                ))}
+               {showPercentage ? (
+                 <LabelList dataKey="percentage" position="right" formatter={(v) => `${v}%`} fill="#9ca3af" />
+               ) : (
+                 <LabelList dataKey="value" position="right" fill="#9ca3af" />
+               )}
             </Bar>
           </BarChart>
         </ResponsiveContainer>
