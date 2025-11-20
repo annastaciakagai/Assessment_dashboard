@@ -7,7 +7,7 @@ import DonutChartWidget from './components/DonutChartWidget';
 import KpiCard from './components/KpiCard';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import mockData from './mockdata.json';
+// Dev-only mock data will be loaded from /public/mockdata.local.json when needed
 
 function App() {
   const [token, setToken] = useState(null);
@@ -56,8 +56,9 @@ function App() {
       setLoading(true);
       try {
         if (token === 'mock-token-123') {
-          const dashboardData = processDashboardData(mockData);
-          setData(dashboardData);
+          const resp = await fetch('/mockdata.local.json');
+          const json = await resp.json();
+          setData(processDashboardData(json));
           return;
         }
         const rawData = await fetchOpportunities(token);
@@ -68,12 +69,18 @@ function App() {
         if (status === 401) {
           setError('Session expired or invalid token. Using mock data.');
           setToken('mock-token-123');
-          const dashboardData = processDashboardData(mockData);
-          setData(dashboardData);
+          const resp = await fetch('/mockdata.local.json');
+          const json = await resp.json();
+          setData(processDashboardData(json));
           return;
         }
-        const dashboardData = processDashboardData(mockData);
-        setData(dashboardData);
+        try {
+          const resp = await fetch('/mockdata.local.json');
+          const json = await resp.json();
+          setData(processDashboardData(json));
+        } catch (e) {
+          setError('Mock data not found. Add public/mockdata.local.json');
+        }
       } finally {
         setLoading(false);
       }
