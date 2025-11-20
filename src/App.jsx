@@ -80,7 +80,7 @@ function App() {
           const json = await resp.json();
           setData(processDashboardData(json));
         } catch (e) {
-          setError('Mock data not found. Add public/mockdata.local.json');
+          setError('Mock data not found. Add public/mockdata.local.json', e);
         }
       } finally {
         setLoading(false);
@@ -162,7 +162,7 @@ function App() {
             <h1 className="text-2xl font-bold text-white">Opportunity Heatmap</h1>
             <p className="text-sm text-dashboard-text mt-1">Visual breakdown of opportunities by time, source, stage, and score.</p>
           </div>
-          <div className="flex items-start gap-4">
+          <div className="flex items-start gap-2">
             <div className="grid grid-cols-3 gap-4 w-[420px]">
               <KpiCard compact title="Total" value={data.kpi.total} />
               <KpiCard compact title="Avg score" value={data.kpi.avgScore} />
@@ -174,15 +174,15 @@ function App() {
 
         {/* Main charts */}
 
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-4">
           <div className="lg:col-span-7">
             <HeatmapWidget data={data.heatmap} />
           </div>
-          <div className="lg:col-span-5 flex flex-col gap-6">
-            <div className="h-64">
+          <div className="lg:col-span-5 flex flex-col gap-4">
+            <div className="h-80">
               <BarChartWidget data={data.sources} title="Opportunities by Source" />
             </div>
-            <div className="h-64">
+            <div className="h-70">
               <BarChartWidget data={data.stages} title="Opportunities by Stage" showPercentage={true} />
             </div>
           </div>
@@ -192,10 +192,10 @@ function App() {
           <div className="lg:col-span-7">
             <BarChartWidget data={data.categories} title="Opportunities by Category" />
           </div>
-          <div className="lg:col-span-3">
+          {/* <div className="lg:col-span-3">
             <BarChartWidget data={data.stagesCounts} title="Opportunities by Stage" />
-          </div>
-          <div className="lg:col-span-2">
+          </div> */}
+          <div className="lg:col-span-5">
             <DonutChartWidget data={data.scoreDistribution} title="Opportunity Score Distribution" />
           </div>
         </div>

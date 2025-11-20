@@ -4,7 +4,14 @@ A full-stack dashboard assessment application that authenticates with a backend 
 
 Link: https://assessment-dashboard-eight.vercel.app/
 
+## 📸 Screenshots
+
+![Login](./src/assets/Login.png)
+![Dashboard](./src/assets/dashboard1.png)
+![Dashboard](./src/assets/dashboard2.png)
+
 ## 🚀 Features
+
 
   * **Authentication:** Secure login using JWT (Bearer Token).
   * **Visualizations:**
