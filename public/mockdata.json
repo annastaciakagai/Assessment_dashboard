@@ -1,0 +1,1258 @@
+[
+    {
+        "_id": "69146095d34e6a2350a23ed7",
+        "type": "individual",
+        "subject": "Test",
+        "status": "qualified",
+        "customer": {
+            "name": "Test",
+            "_id": "69146095d34e6a2350a23ed8"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-12T10:25:25.718Z",
+        "updatedAt": "2025-11-12T10:30:03.388Z",
+        "__v": 0
+    },
+    {
+        "_id": "6914705765b7cd9af57929b6",
+        "type": "individual",
+        "subject": "Fresh Test Opportunity",
+        "status": "qualified",
+        "customer": {
+            "name": "Fresh Test Customer",
+            "_id": "6914705765b7cd9af57929b7"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-12T11:32:39.795Z",
+        "updatedAt": "2025-11-12T11:37:55.122Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b0402c66e554346ddf214",
+        "type": "organization",
+        "subject": "Enterprise Corp - Digital Transformation Project",
+        "source": "website",
+        "status": "new",
+        "customer": {
+            "name": "Enterprise Corporation",
+            "email": "cio@enterprise-corp.com",
+            "companyName": "Enterprise Corporation Ltd",
+            "_id": "691b0402c66e554346ddf215"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T11:16:18.211Z",
+        "updatedAt": "2025-11-17T11:16:18.211Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b054c026317b650ab7601",
+        "type": "organization",
+        "subject": "Enterprise Corp - Digital Transformation Project",
+        "source": "website",
+        "status": "new",
+        "customer": {
+            "name": "Enterprise Corporation",
+            "email": "cio@enterprise-corp.com",
+            "companyName": "Enterprise Corporation Ltd",
+            "_id": "691b054c026317b650ab7602"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T11:21:48.682Z",
+        "updatedAt": "2025-11-17T11:21:48.682Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b0d6878640b79facd9824",
+        "type": "individual",
+        "subject": "Email System Test Opportunity",
+        "source": "test",
+        "status": "new",
+        "customer": {
+            "name": "Test Customer",
+            "email": "test@customer.com",
+            "companyName": "Test Company Inc",
+            "_id": "691b0d6878640b79facd9825"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T11:56:24.370Z",
+        "updatedAt": "2025-11-17T11:56:24.370Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b0f1e78640b79facd9836",
+        "type": "individual",
+        "subject": "Email System Test Opportunity",
+        "source": "test",
+        "status": "closed",
+        "customer": {
+            "name": "Test Customer",
+            "email": "test@customer.com",
+            "companyName": "Test Company Inc",
+            "_id": "691b0f1e78640b79facd9837"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T12:03:42.288Z",
+        "updatedAt": "2025-11-17T12:42:11.237Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b18b5e333fdae7ee90f3f",
+        "type": "individual",
+        "subject": "Complete Workflow Test Opportunity",
+        "source": "website",
+        "status": "closed",
+        "customer": {
+            "name": "Workflow Test Customer",
+            "email": "workflow-test@customer.com",
+            "companyName": "Test Company Inc",
+            "_id": "691b18b5e333fdae7ee90f40"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T12:44:37.868Z",
+        "updatedAt": "2025-11-17T13:03:26.364Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b28c5317a23cab3137656",
+        "type": "individual",
+        "subject": "nicks",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERU",
+            "email": "nicknionene7@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691b28c5317a23cab3137657"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T13:53:09.502Z",
+        "updatedAt": "2025-11-17T13:53:09.502Z",
+        "__v": 0
+    },
+    {
+        "_id": "691b2943317a23cab3137677",
+        "type": "individual",
+        "subject": "nicks",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERU",
+            "email": "nickmunene69@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691b2943317a23cab3137678"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-17T13:55:15.359Z",
+        "updatedAt": "2025-11-17T13:55:15.359Z",
+        "__v": 0
+    },
+    {
+        "_id": "691c30bafbea6379a6b620aa",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c30bafbea6379a6b620ab"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T08:39:22.119Z",
+        "updatedAt": "2025-11-18T08:39:22.119Z",
+        "__v": 0
+    },
+    {
+        "_id": "691c337c48c1c2dc936849b6",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c337c48c1c2dc936849b7"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T08:51:08.156Z",
+        "updatedAt": "2025-11-18T08:51:08.156Z",
+        "__v": 0
+    },
+    {
+        "_id": "691c3412c641181f91f3b612",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c3412c641181f91f3b613"
+        },
+        "vehicles": [
+            {
+                "_id": "691c3412c641181f91f3b616",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c3412c641181f91f3b612",
+                "ownerId": "691c3412c641181f91f3b615",
+                "active": true,
+                "createdAt": "2025-11-18T08:53:38.956Z",
+                "updatedAt": "2025-11-18T08:53:38.956Z",
+                "__v": 0
+            },
+            {
+                "_id": "691c3412c641181f91f3b618",
+                "vin": "2FMDK3GC5DBA12345",
+                "registrationNumber": "XYZ789",
+                "make": "Ford",
+                "model": "Escape",
+                "year": 2018,
+                "color": "Red",
+                "opportunityId": "691c3412c641181f91f3b612",
+                "ownerId": "691c3412c641181f91f3b617",
+                "active": true,
+                "createdAt": "2025-11-18T08:53:38.956Z",
+                "updatedAt": "2025-11-18T08:53:38.956Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T08:53:38.648Z",
+        "updatedAt": "2025-11-18T08:53:39.172Z",
+        "__v": 1
+    },
+    {
+        "_id": "691c35f20cc7ad6ec7571416",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c35f20cc7ad6ec7571417"
+        },
+        "vehicles": [
+            {
+                "_id": "691c35f30cc7ad6ec757141a",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c35f20cc7ad6ec7571416",
+                "ownerId": "691c35f30cc7ad6ec7571419",
+                "active": true,
+                "createdAt": "2025-11-18T09:01:39.181Z",
+                "updatedAt": "2025-11-18T09:01:39.181Z",
+                "__v": 0
+            },
+            {
+                "_id": "691c35f30cc7ad6ec757141c",
+                "vin": "2FMDK3GC5DBA12345",
+                "registrationNumber": "XYZ789",
+                "make": "Ford",
+                "model": "Escape",
+                "year": 2018,
+                "color": "Red",
+                "opportunityId": "691c35f20cc7ad6ec7571416",
+                "ownerId": "691c35f30cc7ad6ec757141b",
+                "active": true,
+                "createdAt": "2025-11-18T09:01:39.181Z",
+                "updatedAt": "2025-11-18T09:01:39.181Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T09:01:38.955Z",
+        "updatedAt": "2025-11-18T09:01:39.388Z",
+        "__v": 1
+    },
+    {
+        "_id": "691c3a74c01caee32404697a",
+        "type": "individual",
+        "subject": "nicks2",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERUs",
+            "email": "nickmunene69@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691c3a74c01caee32404697b"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T09:20:52.312Z",
+        "updatedAt": "2025-11-18T09:20:52.312Z",
+        "__v": 0
+    },
+    {
+        "_id": "691c5829bf6cc2fd4d5b453b",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c5829bf6cc2fd4d5b453c"
+        },
+        "vehicles": [
+            {
+                "_id": "691c5829bf6cc2fd4d5b453f",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c5829bf6cc2fd4d5b453b",
+                "ownerId": "691c5829bf6cc2fd4d5b453e",
+                "active": true,
+                "createdAt": "2025-11-18T11:27:37.619Z",
+                "updatedAt": "2025-11-18T11:27:37.619Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691c5829bf6cc2fd4d5b4542",
+                "opportunityId": "691c5829bf6cc2fd4d5b453b",
+                "vehicleId": "691c5829bf6cc2fd4d5b453f",
+                "createdBy": "691c5829bf6cc2fd4d5b4541",
+                "assignedTo": "651a1b2c3d4e5f6789012345",
+                "jobTitle": "Oil Change Service",
+                "jobDescription": "Full synthetic oil change and filter replacement",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:27:37.828Z",
+                "updatedAt": "2025-11-18T11:27:37.828Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T11:27:37.402Z",
+        "updatedAt": "2025-11-18T11:27:38.259Z",
+        "__v": 1
+    },
+    {
+        "_id": "691c5a902b495ee67eac4f41",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic3",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "Jane Doe",
+            "email": "jane.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c5a902b495ee67eac4f42"
+        },
+        "vehicles": [
+            {
+                "_id": "691c5a902b495ee67eac4f45",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c5a902b495ee67eac4f41",
+                "ownerId": "691c5a902b495ee67eac4f44",
+                "active": true,
+                "createdAt": "2025-11-18T11:37:52.643Z",
+                "updatedAt": "2025-11-18T11:37:52.643Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691c5a902b495ee67eac4f48",
+                "opportunityId": "691c5a902b495ee67eac4f41",
+                "vehicleId": "691c5a902b495ee67eac4f45",
+                "createdBy": "691c5a902b495ee67eac4f47",
+                "jobTitle": "Oil Change Service",
+                "jobDescription": "Full synthetic oil change and filter replacement",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:37:52.862Z",
+                "updatedAt": "2025-11-18T11:37:52.862Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691c5a912b495ee67eac4f4d",
+                "opportunityId": "691c5a902b495ee67eac4f41",
+                "vehicleId": "691c5a902b495ee67eac4f45",
+                "type": "service",
+                "reason": "Standard service waiver for maintenance work",
+                "createdBy": "691c5a912b495ee67eac4f4c",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:37:53.274Z",
+                "updatedAt": "2025-11-18T11:37:53.274Z",
+                "__v": 0
+            },
+            {
+                "_id": "691c5a912b495ee67eac4f4f",
+                "opportunityId": "691c5a902b495ee67eac4f41",
+                "vehicleId": "691c5a902b495ee67eac4f45",
+                "type": "repair",
+                "reason": "Additional repair work authorization",
+                "createdBy": "691c5a912b495ee67eac4f4e",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:37:53.274Z",
+                "updatedAt": "2025-11-18T11:37:53.274Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T11:37:52.353Z",
+        "updatedAt": "2025-11-18T11:37:53.792Z",
+        "__v": 1
+    },
+    {
+        "_id": "691c5dcddc4835d67cecaf50",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c5dcddc4835d67cecaf51"
+        },
+        "vehicles": [
+            {
+                "_id": "691c5dcddc4835d67cecaf54",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c5dcddc4835d67cecaf50",
+                "ownerId": "691c5dcddc4835d67cecaf53",
+                "active": true,
+                "createdAt": "2025-11-18T11:51:41.391Z",
+                "updatedAt": "2025-11-18T11:51:41.391Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691c5dcddc4835d67cecaf57",
+                "opportunityId": "691c5dcddc4835d67cecaf50",
+                "vehicleId": "691c5dcddc4835d67cecaf54",
+                "createdBy": "691c5dcddc4835d67cecaf56",
+                "jobTitle": "Oil Change Service",
+                "jobDescription": "Full synthetic oil change and filter replacement",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:51:41.598Z",
+                "updatedAt": "2025-11-18T11:51:41.598Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691c5dcedc4835d67cecaf5c",
+                "opportunityId": "691c5dcddc4835d67cecaf50",
+                "vehicleId": "691c5dcddc4835d67cecaf54",
+                "type": "service",
+                "reason": "Standard service waiver for maintenance work",
+                "createdBy": "691c5dcedc4835d67cecaf5b",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T11:51:42.017Z",
+                "updatedAt": "2025-11-18T11:51:42.017Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T11:51:41.174Z",
+        "updatedAt": "2025-11-18T11:51:42.746Z",
+        "__v": 1
+    },
+    {
+        "_id": "691c62a927443eb78e61f614",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691c62a927443eb78e61f615"
+        },
+        "vehicles": [
+            {
+                "_id": "691c62a927443eb78e61f618",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691c62a927443eb78e61f614",
+                "ownerId": "691c62a927443eb78e61f617",
+                "active": true,
+                "createdAt": "2025-11-18T12:12:25.813Z",
+                "updatedAt": "2025-11-18T12:12:25.813Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691c62aa27443eb78e61f61b",
+                "opportunityId": "691c62a927443eb78e61f614",
+                "vehicleId": "691c62a927443eb78e61f618",
+                "createdBy": "691c62aa27443eb78e61f61a",
+                "jobTitle": "Oil Change Service",
+                "jobDescription": "Full synthetic oil change and filter replacement",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T12:12:26.019Z",
+                "updatedAt": "2025-11-18T12:12:26.019Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691c62aa27443eb78e61f620",
+                "opportunityId": "691c62a927443eb78e61f614",
+                "vehicleId": "691c62a927443eb78e61f618",
+                "type": "service",
+                "reason": "Standard service waiver for maintenance work",
+                "createdBy": "691c62aa27443eb78e61f61f",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-18T12:12:26.485Z",
+                "updatedAt": "2025-11-18T12:12:26.485Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [
+            {
+                "_id": "691c62ab27443eb78e61f626",
+                "quoteNumber": "Q-2025-0001",
+                "opportunityId": "691c62a927443eb78e61f614",
+                "vehicleId": "691c62a927443eb78e61f618",
+                "items": [
+                    {
+                        "description": "Oil Change Service",
+                        "quantity": 1,
+                        "unitPrice": 7500,
+                        "total": 7500,
+                        "_id": "691c62ab27443eb78e61f627",
+                        "createdAt": "2025-11-18T12:12:27.129Z",
+                        "updatedAt": "2025-11-18T12:12:27.129Z"
+                    },
+                    {
+                        "description": "Oil Filter Replacement",
+                        "quantity": 1,
+                        "unitPrice": 2500,
+                        "total": 2500,
+                        "_id": "691c62ab27443eb78e61f628",
+                        "createdAt": "2025-11-18T12:12:27.130Z",
+                        "updatedAt": "2025-11-18T12:12:27.130Z"
+                    }
+                ],
+                "totalAmount": 10000,
+                "status": "pending",
+                "notes": "Standard service package",
+                "createdBy": "691c62ab27443eb78e61f625",
+                "createdAt": "2025-11-18T12:12:27.130Z",
+                "updatedAt": "2025-11-18T12:12:27.130Z"
+            }
+        ],
+        "assignedTo": null,
+        "createdAt": "2025-11-18T12:12:25.602Z",
+        "updatedAt": "2025-11-18T12:12:27.541Z",
+        "__v": 1
+    },
+    {
+        "_id": "691d6ee225142317f35a275a",
+        "type": "individual",
+        "subject": "Car Service Request - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+1234567890",
+            "companyName": "Doe Enterprises",
+            "_id": "691d6ee225142317f35a275b"
+        },
+        "vehicles": [
+            {
+                "_id": "691d6ee225142317f35a2760",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "ABC123",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2020,
+                "color": "Blue",
+                "opportunityId": "691d6ee225142317f35a275a",
+                "ownerId": "691d6ee225142317f35a275f",
+                "active": true,
+                "createdAt": "2025-11-19T07:16:50.577Z",
+                "updatedAt": "2025-11-19T07:16:50.577Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691d6ee225142317f35a2763",
+                "opportunityId": "691d6ee225142317f35a275a",
+                "vehicleId": "691d6ee225142317f35a2760",
+                "createdBy": "691d6ee225142317f35a2762",
+                "jobTitle": "Oil Change Service",
+                "jobDescription": "Full synthetic oil change and filter replacement",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T07:16:50.661Z",
+                "updatedAt": "2025-11-19T07:16:50.661Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691d6ee225142317f35a2768",
+                "opportunityId": "691d6ee225142317f35a275a",
+                "vehicleId": "691d6ee225142317f35a2760",
+                "type": "service",
+                "reason": "Standard service waiver for maintenance work",
+                "createdBy": "691d6ee225142317f35a2767",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T07:16:50.851Z",
+                "updatedAt": "2025-11-19T07:16:50.851Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [
+            {
+                "_id": "691d6ee325142317f35a276e",
+                "quoteNumber": "Q-2025-0002",
+                "opportunityId": "691d6ee225142317f35a275a",
+                "vehicleId": "691d6ee225142317f35a2760",
+                "items": [
+                    {
+                        "description": "Oil Change Service",
+                        "quantity": 1,
+                        "unitPrice": 7500,
+                        "total": 7500,
+                        "_id": "691d6ee325142317f35a276f",
+                        "createdAt": "2025-11-19T07:16:51.113Z",
+                        "updatedAt": "2025-11-19T07:16:51.113Z"
+                    },
+                    {
+                        "description": "Oil Filter Replacement",
+                        "quantity": 1,
+                        "unitPrice": 2500,
+                        "total": 2500,
+                        "_id": "691d6ee325142317f35a2770",
+                        "createdAt": "2025-11-19T07:16:51.113Z",
+                        "updatedAt": "2025-11-19T07:16:51.113Z"
+                    }
+                ],
+                "totalAmount": 10000,
+                "status": "pending",
+                "notes": "Standard service package",
+                "createdBy": "691d6ee325142317f35a276d",
+                "createdAt": "2025-11-19T07:16:51.114Z",
+                "updatedAt": "2025-11-19T07:16:51.114Z"
+            }
+        ],
+        "assignedTo": null,
+        "createdAt": "2025-11-19T07:16:50.395Z",
+        "updatedAt": "2025-11-19T07:16:51.291Z",
+        "__v": 1
+    },
+    {
+        "_id": "691d75e166179b1905742a9d",
+        "type": "individual",
+        "subject": "nicks3",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERU2",
+            "email": "nickmunene69@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691d75e166179b1905742a9e"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-19T07:46:41.601Z",
+        "updatedAt": "2025-11-19T07:46:41.601Z",
+        "__v": 0
+    },
+    {
+        "_id": "691d78c266179b1905742b0d",
+        "type": "individual",
+        "subject": "nicks22",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERU233",
+            "email": "nickmunene69@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691d78c266179b1905742b0e"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-19T07:58:58.728Z",
+        "updatedAt": "2025-11-19T07:58:58.728Z",
+        "__v": 0
+    },
+    {
+        "_id": "691d81dcc066a28e3258d071",
+        "type": "individual",
+        "subject": "Complete Vehicle Service Package - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "Michael Anderson",
+            "email": "michael.anderson@example.com",
+            "phone": "+1234567890",
+            "companyName": "Anderson Enterprises",
+            "_id": "691d81dcc066a28e3258d072"
+        },
+        "vehicles": [
+            {
+                "_id": "691d81ddc066a28e3258d077",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "HONDA001",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2022,
+                "color": "Silver",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "ownerId": "691d81ddc066a28e3258d076",
+                "active": true,
+                "createdAt": "2025-11-19T08:37:49.174Z",
+                "updatedAt": "2025-11-19T08:37:49.174Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691d81ddc066a28e3258d07a",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "vehicleId": "691d81ddc066a28e3258d077",
+                "createdBy": "691d81ddc066a28e3258d079",
+                "jobTitle": "Comprehensive Service Package",
+                "jobDescription": "Full vehicle inspection, oil change, filter replacement, brake check, and tire rotation",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:37:49.270Z",
+                "updatedAt": "2025-11-19T08:37:49.270Z",
+                "__v": 0
+            },
+            {
+                "_id": "691d81ddc066a28e3258d07c",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "vehicleId": "691d81ddc066a28e3258d077",
+                "createdBy": "691d81ddc066a28e3258d07b",
+                "jobTitle": "AC System Check",
+                "jobDescription": "AC compressor inspection and refrigerant level check",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:37:49.270Z",
+                "updatedAt": "2025-11-19T08:37:49.270Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691d81ddc066a28e3258d084",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "vehicleId": "691d81ddc066a28e3258d077",
+                "type": "service",
+                "reason": "Standard service waiver for comprehensive maintenance work",
+                "createdBy": "691d81ddc066a28e3258d083",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:37:49.450Z",
+                "updatedAt": "2025-11-19T08:37:49.450Z",
+                "__v": 0
+            },
+            {
+                "_id": "691d81ddc066a28e3258d086",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "vehicleId": "691d81ddc066a28e3258d077",
+                "type": "repair",
+                "reason": "Authorization for additional repairs if needed during inspection",
+                "createdBy": "691d81ddc066a28e3258d085",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:37:49.450Z",
+                "updatedAt": "2025-11-19T08:37:49.450Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [
+            {
+                "_id": "691d81ddc066a28e3258d08f",
+                "quoteNumber": "Q-2025-0003",
+                "opportunityId": "691d81dcc066a28e3258d071",
+                "vehicleId": "691d81ddc066a28e3258d077",
+                "items": [
+                    {
+                        "description": "Comprehensive Service Package",
+                        "quantity": 1,
+                        "unitPrice": 15000,
+                        "total": 15000,
+                        "_id": "691d81ddc066a28e3258d090",
+                        "createdAt": "2025-11-19T08:37:49.721Z",
+                        "updatedAt": "2025-11-19T08:37:49.721Z"
+                    },
+                    {
+                        "description": "Synthetic Oil Change",
+                        "quantity": 1,
+                        "unitPrice": 7500,
+                        "total": 7500,
+                        "_id": "691d81ddc066a28e3258d091",
+                        "createdAt": "2025-11-19T08:37:49.722Z",
+                        "updatedAt": "2025-11-19T08:37:49.722Z"
+                    },
+                    {
+                        "description": "AC System Inspection",
+                        "quantity": 1,
+                        "unitPrice": 3500,
+                        "total": 3500,
+                        "_id": "691d81ddc066a28e3258d092",
+                        "createdAt": "2025-11-19T08:37:49.722Z",
+                        "updatedAt": "2025-11-19T08:37:49.722Z"
+                    },
+                    {
+                        "description": "Brake System Check",
+                        "quantity": 1,
+                        "unitPrice": 4500,
+                        "total": 4500,
+                        "_id": "691d81ddc066a28e3258d093",
+                        "createdAt": "2025-11-19T08:37:49.722Z",
+                        "updatedAt": "2025-11-19T08:37:49.722Z"
+                    }
+                ],
+                "totalAmount": 30500,
+                "status": "pending",
+                "notes": "Complete service package with 10% discount applied. Valid for 30 days.",
+                "createdBy": "691d81ddc066a28e3258d08e",
+                "createdAt": "2025-11-19T08:37:49.722Z",
+                "updatedAt": "2025-11-19T08:37:49.722Z"
+            }
+        ],
+        "assignedTo": {
+            "_id": "691d8096c066a28e3258d06d",
+            "email": "sales.rep@crm.local",
+            "role": "690dfb3e8aacd113b8667abf"
+        },
+        "createdAt": "2025-11-19T08:37:48.963Z",
+        "updatedAt": "2025-11-19T08:37:49.892Z",
+        "__v": 1
+    },
+    {
+        "_id": "691d84d4c066a28e3258d0ab",
+        "type": "individual",
+        "subject": "Complete Vehicle Service Package - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "Michael Anderson",
+            "email": "michael.anderson@example.com",
+            "phone": "+1234567890",
+            "companyName": "Anderson Enterprises",
+            "_id": "691d84d4c066a28e3258d0ac"
+        },
+        "vehicles": [
+            {
+                "_id": "691d84d4c066a28e3258d0b1",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "HONDA001",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2022,
+                "color": "Silver",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "ownerId": "691d84d4c066a28e3258d0b0",
+                "active": true,
+                "createdAt": "2025-11-19T08:50:28.951Z",
+                "updatedAt": "2025-11-19T08:50:28.951Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691d84d5c066a28e3258d0b4",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "vehicleId": "691d84d4c066a28e3258d0b1",
+                "createdBy": "691d84d5c066a28e3258d0b3",
+                "jobTitle": "Comprehensive Service Package",
+                "jobDescription": "Full vehicle inspection, oil change, filter replacement, brake check, and tire rotation",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:50:29.037Z",
+                "updatedAt": "2025-11-19T08:50:29.037Z",
+                "__v": 0
+            },
+            {
+                "_id": "691d84d5c066a28e3258d0b6",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "vehicleId": "691d84d4c066a28e3258d0b1",
+                "createdBy": "691d84d5c066a28e3258d0b5",
+                "jobTitle": "AC System Check",
+                "jobDescription": "AC compressor inspection and refrigerant level check",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:50:29.037Z",
+                "updatedAt": "2025-11-19T08:50:29.037Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691d84d5c066a28e3258d0be",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "vehicleId": "691d84d4c066a28e3258d0b1",
+                "type": "service",
+                "reason": "Standard service waiver for comprehensive maintenance work",
+                "createdBy": "691d84d5c066a28e3258d0bd",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:50:29.215Z",
+                "updatedAt": "2025-11-19T08:50:29.215Z",
+                "__v": 0
+            },
+            {
+                "_id": "691d84d5c066a28e3258d0c0",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "vehicleId": "691d84d4c066a28e3258d0b1",
+                "type": "repair",
+                "reason": "Authorization for additional repairs if needed during inspection",
+                "createdBy": "691d84d5c066a28e3258d0bf",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T08:50:29.215Z",
+                "updatedAt": "2025-11-19T08:50:29.215Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [
+            {
+                "_id": "691d84d5c066a28e3258d0c9",
+                "quoteNumber": "Q-2025-0004",
+                "opportunityId": "691d84d4c066a28e3258d0ab",
+                "vehicleId": "691d84d4c066a28e3258d0b1",
+                "items": [
+                    {
+                        "description": "Comprehensive Service Package",
+                        "quantity": 1,
+                        "unitPrice": 15000,
+                        "total": 15000,
+                        "_id": "691d84d5c066a28e3258d0ca",
+                        "createdAt": "2025-11-19T08:50:29.480Z",
+                        "updatedAt": "2025-11-19T08:50:29.480Z"
+                    },
+                    {
+                        "description": "Synthetic Oil Change",
+                        "quantity": 1,
+                        "unitPrice": 7500,
+                        "total": 7500,
+                        "_id": "691d84d5c066a28e3258d0cb",
+                        "createdAt": "2025-11-19T08:50:29.481Z",
+                        "updatedAt": "2025-11-19T08:50:29.481Z"
+                    },
+                    {
+                        "description": "AC System Inspection",
+                        "quantity": 1,
+                        "unitPrice": 3500,
+                        "total": 3500,
+                        "_id": "691d84d5c066a28e3258d0cc",
+                        "createdAt": "2025-11-19T08:50:29.481Z",
+                        "updatedAt": "2025-11-19T08:50:29.481Z"
+                    },
+                    {
+                        "description": "Brake System Check",
+                        "quantity": 1,
+                        "unitPrice": 4500,
+                        "total": 4500,
+                        "_id": "691d84d5c066a28e3258d0cd",
+                        "createdAt": "2025-11-19T08:50:29.481Z",
+                        "updatedAt": "2025-11-19T08:50:29.481Z"
+                    }
+                ],
+                "totalAmount": 30500,
+                "status": "pending",
+                "notes": "Complete service package with 10% discount applied. Valid for 30 days.",
+                "createdBy": "691d84d5c066a28e3258d0c8",
+                "createdAt": "2025-11-19T08:50:29.481Z",
+                "updatedAt": "2025-11-19T08:50:29.481Z"
+            }
+        ],
+        "assignedTo": null,
+        "createdAt": "2025-11-19T08:50:28.750Z",
+        "updatedAt": "2025-11-19T08:50:29.655Z",
+        "__v": 1
+    },
+    {
+        "_id": "691d925bf7236ad5acb14fe5",
+        "type": "individual",
+        "subject": "nicks",
+        "source": "manual",
+        "status": "new",
+        "customer": {
+            "name": "NICKSON NJERU",
+            "email": "nicknionene7@gmail.com",
+            "phone": "+254718140675",
+            "companyName": "nicks",
+            "_id": "691d925bf7236ad5acb14fe6"
+        },
+        "vehicles": [],
+        "jobCards": [],
+        "waivers": [],
+        "quotes": [],
+        "assignedTo": null,
+        "createdAt": "2025-11-19T09:48:11.570Z",
+        "updatedAt": "2025-11-19T09:48:11.570Z",
+        "__v": 0
+    },
+    {
+        "_id": "691dbfb6fc6c4c282b6ca46e",
+        "type": "individual",
+        "subject": "Complete Vehicle Service Package - Honda Civic",
+        "source": "walk_in",
+        "status": "new",
+        "customer": {
+            "name": "Michael Anderson",
+            "email": "michael.anderson@example.com",
+            "phone": "+1234567890",
+            "companyName": "Anderson Enterprises",
+            "_id": "691dbfb6fc6c4c282b6ca46f"
+        },
+        "vehicles": [
+            {
+                "_id": "691dbfb6fc6c4c282b6ca474",
+                "vin": "1HGCM82633A123456",
+                "registrationNumber": "HONDA001",
+                "make": "Honda",
+                "model": "Civic",
+                "year": 2022,
+                "color": "Silver",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "ownerId": "691dbfb6fc6c4c282b6ca473",
+                "active": true,
+                "createdAt": "2025-11-19T13:01:42.812Z",
+                "updatedAt": "2025-11-19T13:01:42.812Z",
+                "__v": 0
+            }
+        ],
+        "jobCards": [
+            {
+                "_id": "691dbfb6fc6c4c282b6ca477",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "vehicleId": "691dbfb6fc6c4c282b6ca474",
+                "createdBy": "691dbfb6fc6c4c282b6ca476",
+                "jobTitle": "Comprehensive Service Package",
+                "jobDescription": "Full vehicle inspection, oil change, filter replacement, brake check, and tire rotation",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T13:01:42.995Z",
+                "updatedAt": "2025-11-19T13:01:42.995Z",
+                "__v": 0
+            },
+            {
+                "_id": "691dbfb6fc6c4c282b6ca479",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "vehicleId": "691dbfb6fc6c4c282b6ca474",
+                "createdBy": "691dbfb6fc6c4c282b6ca478",
+                "jobTitle": "AC System Check",
+                "jobDescription": "AC compressor inspection and refrigerant level check",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T13:01:42.995Z",
+                "updatedAt": "2025-11-19T13:01:42.995Z",
+                "__v": 0
+            }
+        ],
+        "waivers": [
+            {
+                "_id": "691dbfb7fc6c4c282b6ca481",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "vehicleId": "691dbfb6fc6c4c282b6ca474",
+                "type": "service",
+                "reason": "Standard service waiver for comprehensive maintenance work",
+                "createdBy": "691dbfb7fc6c4c282b6ca480",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T13:01:43.213Z",
+                "updatedAt": "2025-11-19T13:01:43.213Z",
+                "__v": 0
+            },
+            {
+                "_id": "691dbfb7fc6c4c282b6ca483",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "vehicleId": "691dbfb6fc6c4c282b6ca474",
+                "type": "repair",
+                "reason": "Authorization for additional repairs if needed during inspection",
+                "createdBy": "691dbfb7fc6c4c282b6ca482",
+                "status": "pending",
+                "active": true,
+                "createdAt": "2025-11-19T13:01:43.214Z",
+                "updatedAt": "2025-11-19T13:01:43.214Z",
+                "__v": 0
+            }
+        ],
+        "quotes": [
+            {
+                "_id": "691dbfb7fc6c4c282b6ca48c",
+                "quoteNumber": "Q-2025-0005",
+                "opportunityId": "691dbfb6fc6c4c282b6ca46e",
+                "vehicleId": "691dbfb6fc6c4c282b6ca474",
+                "items": [
+                    {
+                        "description": "Comprehensive Service Package",
+                        "quantity": 1,
+                        "unitPrice": 15000,
+                        "total": 15000,
+                        "_id": "691dbfb7fc6c4c282b6ca48d",
+                        "createdAt": "2025-11-19T13:01:43.728Z",
+                        "updatedAt": "2025-11-19T13:01:43.728Z"
+                    },
+                    {
+                        "description": "Synthetic Oil Change",
+                        "quantity": 1,
+                        "unitPrice": 7500,
+                        "total": 7500,
+                        "_id": "691dbfb7fc6c4c282b6ca48e",
+                        "createdAt": "2025-11-19T13:01:43.729Z",
+                        "updatedAt": "2025-11-19T13:01:43.729Z"
+                    },
+                    {
+                        "description": "AC System Inspection",
+                        "quantity": 1,
+                        "unitPrice": 3500,
+                        "total": 3500,
+                        "_id": "691dbfb7fc6c4c282b6ca48f",
+                        "createdAt": "2025-11-19T13:01:43.729Z",
+                        "updatedAt": "2025-11-19T13:01:43.729Z"
+                    },
+                    {
+                        "description": "Brake System Check",
+                        "quantity": 1,
+                        "unitPrice": 4500,
+                        "total": 4500,
+                        "_id": "691dbfb7fc6c4c282b6ca490",
+                        "createdAt": "2025-11-19T13:01:43.729Z",
+                        "updatedAt": "2025-11-19T13:01:43.729Z"
+                    }
+                ],
+                "totalAmount": 30500,
+                "status": "pending",
+                "notes": "Complete service package with 10% discount applied. Valid for 30 days.",
+                "createdBy": "691dbfb7fc6c4c282b6ca48b",
+                "createdAt": "2025-11-19T13:01:43.729Z",
+                "updatedAt": "2025-11-19T13:01:43.729Z"
+            }
+        ],
+        "assignedTo": {
+            "_id": "691d8ed996639ba7663411e5",
+            "email": "management@crm.local",
+            "role": "690dfb398aacd113b8667aa5"
+        },
+        "createdAt": "2025-11-19T13:01:42.552Z",
+        "updatedAt": "2025-11-19T13:01:43.917Z",
+        "__v": 1
+    }
+]
