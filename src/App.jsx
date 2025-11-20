@@ -57,7 +57,7 @@ function App() {
       setLoading(true);
       try {
         if (token === 'mock-token-123') {
-          const resp = await fetch('/mockdata.local.json');
+          const resp = await fetch('/mockdata.json');
           const json = await resp.json();
           setData(processDashboardData(json));
           return;
@@ -70,13 +70,13 @@ function App() {
         if (status === 401) {
           setError('Session expired or invalid token. Using mock data.');
           setToken('mock-token-123');
-          const resp = await fetch('/mockdata.local.json');
+          const resp = await fetch('/mockdata.json');
           const json = await resp.json();
           setData(processDashboardData(json));
           return;
         }
         try {
-          const resp = await fetch('/mockdata.local.json');
+          const resp = await fetch('/mockdata.json');
           const json = await resp.json();
           setData(processDashboardData(json));
         } catch (e) {
